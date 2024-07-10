@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm a software developer and tech enthusiast 🧑🏽‍💻 from the southern part of Germany with a passion for CI/CD 🚀, Automation 🤖 and Cloud/Infrastructure technologies. Some people call it DevOps.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fckreisl&countColor=%2337d67a)
-
 
 ### 💻 Languages
 Development setup as of now Windows 11 with WSL 2 (Ubuntu).
